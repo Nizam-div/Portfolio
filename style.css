@@ -1050,7 +1050,7 @@ form textarea {
     }
 
     .header {
-
+        display: none;
         height: 55px;
         justify-content: space-between;
 
